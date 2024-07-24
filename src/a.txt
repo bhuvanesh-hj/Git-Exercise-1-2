@@ -1,2 +1,4 @@
-Chnaged the file
+Changed the file
 again changes added
+
+add new line in newly created branch
