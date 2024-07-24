@@ -1,3 +1,6 @@
 Add new to a new created branch
 
 add some changes
+
+
+Need to lear more about the git
